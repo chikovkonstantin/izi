@@ -1,0 +1,16 @@
+1/
+name:РОМЭЙН
+surname:ПАНККЕЙК
+gender:ATTACK Helicopter
+date:09.11.2001
+diagnosis:Насморк 
+age:69
+1
+2/
+name:Константин
+surname:Чиков
+gender:муж.
+date:15.01.2024
+diagnosis:-
+age:19
+2
